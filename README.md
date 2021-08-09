@@ -21,4 +21,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+
+
+### Notes to organize later
+
+- The command <b>rake routes</b> is deprecated on rails 6.1 in favor of <b>rails routes</b>
